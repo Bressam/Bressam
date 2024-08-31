@@ -2,9 +2,9 @@
 ### About me
 I'm an experienced software developer specialized in iOS app development, graduated on Computer Engineering at PUC-PR University.
 
-My journey on iOS development start in 2015, when I got approved into the Apple Developer Academy, an official apple developer program worldwide.
+My journey on iOS development started in 2015, when I got approved into the Apple Developer Academy, an official apple developer program worldwide.
 
-Since then I kept focusing all my projects and carreer on iOS development, but also kept my hands on some engineering projects. I also worked 2 years as an FullStack Engineer at Siemens Grid Control team, keeping my hands on engineering projects and code that I also love, but my passion for iOS was greater and I decided to focus my carreer completely on iOS development.
+Since then I kept focusing all my projects and carreer on iOS development, but also kept my hands on some engineering projects. I also worked 2 years as an FullStack Engineer at Siemens Grid Control team, keeping my hands on engineering projects and code that I also love, but my passion for iOS was greater.
 
 ### 🧙🏼‍♂️ My tech skills
 I am constantly learning about cutting edge concepts around mobile architecture and design patterns, improving both code quality and code performance, always focusing on application scabability
