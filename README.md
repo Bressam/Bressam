@@ -21,6 +21,12 @@ I work with iOS development since 2017. All these years of development granted m
  - Video streaming and media management;
  - Modularization of monolithic applications;
 
+
+### ⚡ Fun fact
+I always worked on companies all around the globe, both in-office and remotely.
+In 2023 I traveled to Taiwan to have an week of work in-office with our important client, that improved our company trust and client's confidence on our deliveries.  
+
+
 ### 👨🏻‍💻 My other tech skills
 Even tough I am specialized into iOS development, I also studied about other mobile technologies to improve my communication between stacks on daily work, and also have some past work as a FullStack Engineer where I worked with Java, C, C++. C#.
 
@@ -28,11 +34,6 @@ I also gained an 100% scholarship for a post-graduation program from my universi
  - UI/UX design and components creation on Figma;
  - Android and Flutter, even tough I don't plan to work with it, the main focus is to keep improving communication with other stack teams from work, it already showed results on meetings;
  - Backend development, Kotlin and Java with springboot. Besides helping to understand how backend works, it is very important for personal projects;
-
-
-### ⚡ Fun fact
-I always worked on companies all around the globe, both in-office and remotely.
-In 2023 I traveled to Taiwan to have an week of work in-office with our important client, that improved our company trust and confidence on our deliveries.  
 
 ### 📫 Reach me out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giovanne_bressam-3a1d42)](https://www.linkedin.com/in/giovanne-bressam/)
