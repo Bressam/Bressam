@@ -24,7 +24,7 @@ I work with iOS development since 2017. All these years of development granted m
 
 ### ⚡ Fun fact
 I always worked on companies all around the globe, both in-office and remotely.
-In 2023 I traveled to Taiwan to have an week of work in-office with our important client, that improved our company trust and client's confidence on our deliveries.  
+In 2023 I traveled to Taiwan to have a week of work in-office with our important client, that improved our company trust and client's confidence on our deliveries.  
 
 
 ### 👨🏻‍💻 My other tech skills
