@@ -1,39 +1,41 @@
 ## Hi there 🍏🤖🧙🏼‍♂️
 ### About me
-I'm an experienced software developer specialized in iOS app development, graduated on Computer Engineering at PUC-PR University.
-My journey on iOS development started in 2015, when I got approved into the Apple Developer Academy, an official apple developer program worldwide.
+I'm an experienced software developer specializing in iOS app development, with a degree in Computer Engineering from PUC-PR University. 
 
-Since then I kept focusing all my projects and carreer on iOS development. I also worked 2 years as an FullStack Engineer at Siemens Grid Control team, keeping my hands on engineering projects and code that I also love, but my passion for iOS was greater.
+My journey in iOS development began in 2015 when I was accepted into the Apple Developer Academy, an official Apple developer program worldwide.
+
+Since then, I've focused my career and projects on iOS development. I also spent 2 years as a Full Stack Engineer on the Siemens Grid Control team, working on engineering projects and writing code—something I also love—but my passion for iOS was greater.
 
 <!-- 
 themes: dracula radical tokyonight cobalt 
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bressam&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### 🧙🏼‍♂️ My tech skills
-I am constantly learning about cutting edge concepts around mobile architecture and design patterns, improving both code quality, performance and mainly application scabability.
+I am constantly learning about cutting-edge concepts in mobile architecture and design patterns, improving code quality, performance, and especially application scalability.
 
-I work with iOS development since 2017. All these years of development granted me a lot of knowledge on different topics, being the main ones:
- - Swift, RxSwift, Combine and Objective-C;
- - UIKit and SwiftUI;
- - Build systems: Buck & Tuist;
- - CI/CD, Fastlane;
- - Appstore: rules to manage and maintain subscription and in-app purchases;
- - Video streaming and media management;
- - Modularization of monolithic applications;
+I've been working in iOS development since 2017. These years of experience have given me extensive knowledge in various areas, including:
+- Swift, RxSwift, Combine, and Objective-C;
+- UIKit and SwiftUI;
+- Build systems: Buck & Tuist;
+- CI/CD, Fastlane;
+- App Store: managing and maintaining subscriptions and in-app purchases;
+- Video streaming and media management;
+- Modularization of monolithic applications;
 
 
 ### ⚡ Fun fact
-I always worked on companies all around the globe, both in-office and remotely.
-In 2023 I traveled to Taiwan to have a week of work in-office with our important client, that improved our company trust and client's confidence on our deliveries.  
+I've worked for companies all around the globe, both in-office and remotely. 
+
+In 2023, I traveled to Taiwan for a week of in-office work with an important client, which significantly enhanced our company’s trust and the client’s confidence in our deliveries.
 
 
 ### 👨🏻‍💻 My other tech skills
-Even tough I am specialized into iOS development, I also studied about other mobile technologies to improve my communication between stacks on daily work, and also have some past work as a FullStack Engineer where I worked with Java, C, C++. C#.
+Even though I specialize in iOS development, I've also studied other mobile technologies to improve communication across stacks in my daily work. I also have past experience as a Full Stack Engineer, working with Java, C, C++, and C#.
 
-I also gained an 100% scholarship for a post-graduation program from my university. I choose mobile development post-graduation course, where I managed to improve the following stacks: 
- - UI/UX design and components creation on Figma;
- - Android and Flutter, even tough I don't plan to work with it, the main focus is to keep improving communication with other stack teams from work, it already showed results on meetings;
- - Backend development, Kotlin and Java with springboot. Besides helping to understand how backend works, it is very important for personal projects;
+I received a 100% scholarship for a post-graduation program from my university. I chose a mobile development post-graduation course, where I improved my skills in the following areas:
+- UI/UX design and component creation in Figma;
+- Android and Flutter: Even though I don’t plan to work with these technologies, the main goal was to improve communication with other stack teams at work, and it has already yielded results in meetings;
+- Backend development: Kotlin and Java with Spring Boot. Understanding how backend systems work is essential for personal projects.
 
 ### 📫 Reach me out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giovanne_bressam-3a1d42)](https://www.linkedin.com/in/giovanne-bressam/)
